@@ -33,6 +33,10 @@ Vulnerabilities testing environment from different sources
 - Link: https://github.com/WebGoat/WebGoat
 - Description: WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
+## mutillidae
+- Link: https://github.com/webpwnized/mutillidae
+- Description: OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application designed for web-security enthusiasts. It serves as a target for learning and practicing web security skills.
+
 ## DVWA
 - Link: https://github.com/digininja/DVWA
 - Description: Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.

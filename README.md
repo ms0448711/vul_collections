@@ -29,6 +29,10 @@ Vulnerabilities testing environment from different sources
 </ul>
 </details>
 
+## WebGoat
+- Link: https://github.com/WebGoat/WebGoat
+- Description: WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
+
 ## DVWA
 - Link: https://github.com/digininja/DVWA
 - Description: Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
@@ -40,4 +44,3 @@ Vulnerabilities testing environment from different sources
 # Other Similar Lists
 
 - [awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable)
-- 
